@@ -1,0 +1,4 @@
+subtitles.block.generic.break -144px 0px
+subtitles.block.generic.footsteps -144px 0px
+subtitles.block.generic.hit -144px 0px
+subtitles.block.generic.place -144px 0px

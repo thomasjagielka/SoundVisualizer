@@ -1,0 +1,5 @@
+subtitles.particle.soul_escape -176px -512px
+subtitles.enchant.thorns.hit -176px -512px
+subtitles.ambient.cave -208px -16px
+subtitles.weather.rain -160px -16px
+subtitles.event.raid.horn -252px -54px

@@ -1,0 +1,1 @@
+subtitles.event.raid.horn -252px -54px

@@ -1,0 +1,3 @@
+subtitles.ambient.cave -208px -16px
+subtitles.weather.rain -160px -16px
+subtitles.event.raid.horn -252px -54px
